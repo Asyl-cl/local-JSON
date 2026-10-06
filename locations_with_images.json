@@ -1,0 +1,168 @@
+{
+  "company": "Example Corp",
+  "updated": "2026-10-06",
+  "locations": [
+    {
+      "id": 1,
+      "slug": "almaty",
+      "name": "Almaty Office",
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "address": "Al-Farabi Ave 77",
+      "latitude": 43.2183,
+      "longitude": 76.9286,
+      "hq": true,
+      "employees": 420,
+      "description": "Our main regional hub with engineering, sales and support teams.",
+      "tags": ["engineering", "sales", "support"],
+      "image": "https://picsum.photos/seed/almaty/800/450",
+      "thumbnail": "https://picsum.photos/seed/almaty/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/almaty1/800/450",
+        "https://picsum.photos/seed/almaty2/800/450",
+        "https://picsum.photos/seed/almaty3/800/450"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "astana",
+      "name": "Astana Office",
+      "city": "Astana",
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "address": "Mangilik El Ave 55",
+      "latitude": 51.0894,
+      "longitude": 71.4162,
+      "hq": false,
+      "employees": 180,
+      "description": "Government relations, legal and enterprise sales.",
+      "tags": ["sales", "legal"],
+      "image": "https://picsum.photos/seed/astana/800/450",
+      "thumbnail": "https://picsum.photos/seed/astana/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/astana1/800/450",
+        "https://picsum.photos/seed/astana2/800/450"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "taraz",
+      "name": "Taraz Hub",
+      "city": "Taraz",
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "address": "Tole Bi St 10",
+      "latitude": 42.9,
+      "longitude": 71.3667,
+      "hq": false,
+      "employees": 45,
+      "description": "Small support hub for the southern region.",
+      "tags": ["support"],
+      "image": "https://picsum.photos/seed/taraz/800/450",
+      "thumbnail": "https://picsum.photos/seed/taraz/200/120",
+      "gallery": []
+    },
+    {
+      "id": 4,
+      "slug": "london",
+      "name": "London Office",
+      "city": "London",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "address": "1 King's Cross Rd",
+      "latitude": 51.5304,
+      "longitude": -0.1233,
+      "hq": false,
+      "employees": 260,
+      "description": "Research and finance teams close to King's Cross.",
+      "tags": ["research", "finance"],
+      "image": "https://picsum.photos/seed/london/800/450",
+      "thumbnail": "https://picsum.photos/seed/london/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/london1/800/450",
+        "https://picsum.photos/seed/london2/800/450"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "berlin",
+      "name": "Berlin Office",
+      "city": "Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "address": "Friedrichstrasse 100",
+      "latitude": 52.52,
+      "longitude": 13.389,
+      "hq": false,
+      "employees": 150,
+      "description": "Engineering and design studio in Mitte.",
+      "tags": ["engineering", "design"],
+      "image": "https://picsum.photos/seed/berlin/800/450",
+      "thumbnail": "https://picsum.photos/seed/berlin/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/berlin1/800/450"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "new-york",
+      "name": "New York Office",
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "address": "111 8th Ave",
+      "latitude": 40.7414,
+      "longitude": -74.0033,
+      "hq": false,
+      "employees": 700,
+      "description": "Sales, marketing and engineering in Chelsea.",
+      "tags": ["sales", "marketing", "engineering"],
+      "image": "https://picsum.photos/seed/newyork/800/450",
+      "thumbnail": "https://picsum.photos/seed/newyork/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/newyork1/800/450",
+        "https://picsum.photos/seed/newyork2/800/450",
+        "https://picsum.photos/seed/newyork3/800/450"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "tokyo",
+      "name": "Tokyo Office",
+      "city": "Tokyo",
+      "country": "Japan",
+      "countryCode": "JP",
+      "address": "6-10-1 Roppongi, Minato",
+      "latitude": 35.6605,
+      "longitude": 139.7292,
+      "hq": false,
+      "employees": 320,
+      "description": "Sales and customer support for the Asia-Pacific region.",
+      "tags": ["sales", "support"],
+      "image": "https://picsum.photos/seed/tokyo/800/450",
+      "thumbnail": "https://picsum.photos/seed/tokyo/200/120",
+      "gallery": [
+        "https://picsum.photos/seed/tokyo1/800/450"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "sydney",
+      "name": "Sydney Office",
+      "city": "Sydney",
+      "country": "Australia",
+      "countryCode": "AU",
+      "address": "48 Pirrama Rd, Pyrmont",
+      "latitude": -33.8688,
+      "longitude": 151.1957,
+      "hq": false,
+      "employees": 210,
+      "description": "Engineering team by the harbour.",
+      "tags": ["engineering"],
+      "image": null,
+      "thumbnail": null,
+      "gallery": []
+    }
+  ]
+}
